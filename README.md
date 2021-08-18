@@ -1,2 +1,2 @@
 # LC_TypeScripts
-TypeScripts讲解...
+##  官网 https://www.tslang.cn/
